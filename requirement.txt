@@ -1,0 +1,5 @@
+numpy :: 1.14.0
+cv2 ::  4.1.1
+tensorflow ::  2.1.0
+sklearn :: 0.21.3
+pickle :: 4.0
